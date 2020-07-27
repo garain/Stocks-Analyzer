@@ -20,7 +20,7 @@ import streamlit as st
 st.title('Stock Market App')
 '---------------------------------------------------------'
 #text
-st.write("Developed by Prateek Majumder")
+st.write("Developed by Avishek Garain")
 
 com = st.text_input("Enter the Stock Code of company","AAPL")
 
