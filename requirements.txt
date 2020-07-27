@@ -2,7 +2,6 @@ matplotlib
 numpy
 pandas
 streamlit
-warnings
 seaborn
 mpl_finance
 pandas_datareader
