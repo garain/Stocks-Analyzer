@@ -2,5 +2,7 @@ matplotlib
 numpy
 pandas
 streamlit
-sklearn
-plotly
+warnings
+seaborn
+mpl_finance
+pandas_datareader
