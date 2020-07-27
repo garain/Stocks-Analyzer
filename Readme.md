@@ -1,13 +1,8 @@
 # Stock Market Analyser
 
-## How to run
+## Web app link
 
-1. Install all the relevant libraries as given in the code.
-
-2. Open anaconda prompt.
-
-3. pip install streamlit
-
+https://market-stocks-analyzer.herokuapp.com/
 
 ## About the Project
 
@@ -15,4 +10,6 @@ Entering the appropriate company code and date range will fetch the company stoc
 
 Use the menus to plot the required plots according to the parameters available.
 
+# Link to download stock codes
 
+https://investexcel.net/wp-content/uploads/2015/01/Yahoo-Ticker-Symbols-September-2017.zip
