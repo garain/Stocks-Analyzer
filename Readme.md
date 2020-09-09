@@ -2,7 +2,7 @@
 
 ## Web app link
 
-https://market-stocks-analyzer.herokuapp.com/
+[Link to app](https://garain.vision/Authentication/stockanalyze)
 
 ## About the Project
 
