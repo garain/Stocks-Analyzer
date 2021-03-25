@@ -15,7 +15,7 @@ import streamlit as st
 
 
 #Importing Libraries done
-
+st.set_option('deprecation.showPyplotGlobalUse', False)
 #title
 st.title('Stock Market App')
 '---------------------------------------------------------'
