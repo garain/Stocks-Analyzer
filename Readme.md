@@ -1,5 +1,4 @@
-# Stock Market Analyser [![HitCount](http://hits.dwyl.com/garain/Stocks-Analyzer.svg)](http://hits.dwyl.com/garain/Stocks-Analyzer)
-
+# Stock Market Analyser 
 ## Web app link
 
 [Link to app](https://garain.vision/Authentication/stockanalyze)
