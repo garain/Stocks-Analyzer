@@ -1,7 +1,7 @@
 # Stock Market Analyser 
 ## Web app link
 
-[Link to app](https://garain.vision/Authentication/stockanalyze)
+[Link to app](https://garain.github.io/Authentication/stockanalyze)
 
 ## About the Project
 
